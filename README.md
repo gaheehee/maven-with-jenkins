@@ -1,6 +1,6 @@
 download this project and review pom.xml and project folder structures.
 
-정가희 2021-07-12 build 확인
+정가희 2021-07-12 build
 
 1. mvn clean spring-boot:run
 2. mvn -Pdev clean spring-boot:run
